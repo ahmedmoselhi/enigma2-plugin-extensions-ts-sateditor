@@ -1,0 +1,9 @@
+Package: enigma2-plugin-systemplugins-ts-sateditor
+Version:
+Description: manage satellites/transponders for user satellites.xml
+Section: extra
+Priority: optional
+Maintainer: Dima73 <Dima-73@inbox.lv> /ahmedmoselhi <ahmedmoselhi55@gmail.com>
+Architecture: all
+Homepage: www.tunisia-sat.com / openpli.org
+Recommends: curl
